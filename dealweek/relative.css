@@ -1,0 +1,16 @@
+.product{
+background-color: yellow;
+position: relative;
+}
+.deal{
+position: absolute;
+z-index:1;
+margin-top: 220px;
+}
+.item{
+position: absolute;
+margin-top: 10px;
+width: 1300px;
+height: 1300px;
+
+}
